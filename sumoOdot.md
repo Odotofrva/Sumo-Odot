@@ -23,7 +23,7 @@
 - Cannot harm other robot other than push it out of the platform.
 - Cannot harm humans
 - Cannot stick to the platform. (ie: glue, suction)
-- Must be autonomous
+- 
 
 
 
